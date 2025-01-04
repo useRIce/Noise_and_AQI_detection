@@ -4,8 +4,8 @@
 #include <LiquidCrystal_I2C.h>
 
 //Copy the Channel ID and API key from newly created channel at https://thingspeak.mathworks.com/
-#define CHANNEL_ID    //your_channel_id
-#define CHANNEL_API_KEY   //"your_api_key"
+#define CHANNEL_ID    //new channel_id from the think speak website
+#define CHANNEL_API_KEY   //"api_key"
 
 WiFiClient client;
 
