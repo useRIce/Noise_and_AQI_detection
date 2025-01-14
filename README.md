@@ -64,3 +64,8 @@ VI.. Future Enhancements
 
 VII.. Acknowledgments
 Thanks to the PlatformIO and ThingSpeak communities for their resources and tools that made this project possible.
+
+---
+
+VII.. Example
+![Screenshot 2025-01-14 221404](https://github.com/user-attachments/assets/7f5fdf6c-12df-4786-a3ee-2c9974a0d05b)
