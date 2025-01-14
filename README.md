@@ -54,7 +54,7 @@ V.. Setup Instructions
 
 ---
 
-VII.. Example
+VI.. Example
    - AQI
      ![Screenshot 2025-01-14 223534](https://github.com/user-attachments/assets/20850a00-5e24-4230-ae76-2782124a3b74)
      
