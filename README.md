@@ -54,7 +54,17 @@ V.. Setup Instructions
 
 ---
 
-VI.. Future Enhancements
+VII.. Example
+   - AQI
+     ![Screenshot 2025-01-14 223534](https://github.com/user-attachments/assets/20850a00-5e24-4230-ae76-2782124a3b74)
+     
+   - Noice
+   ![Screenshot 2025-01-14 223602](https://github.com/user-attachments/assets/8402040e-dbfd-4c1a-bf10-bfe80fd4bc1c)
+
+
+---
+
+VII.. Future Enhancements
 - Add particulate matter sensors (e.g., PM2.5, PM10).
 - Enable mobile alerts via email or SMS for critical thresholds.
 - Implement solar-powered operation for off-grid use.
@@ -62,10 +72,7 @@ VI.. Future Enhancements
 
 ---
 
-VII.. Acknowledgments
+VIII.. Acknowledgments
 Thanks to the PlatformIO and ThingSpeak communities for their resources and tools that made this project possible.
 
----
 
-VII.. Example
-![Screenshot 2025-01-14 221404](https://github.com/user-attachments/assets/7f5fdf6c-12df-4786-a3ee-2c9974a0d05b)
