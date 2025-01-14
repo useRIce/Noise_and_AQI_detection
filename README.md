@@ -55,11 +55,8 @@ V.. Setup Instructions
 ---
 
 VI.. Example
-   - AQI
-     ![Screenshot 2025-01-14 223534](https://github.com/user-attachments/assets/20850a00-5e24-4230-ae76-2782124a3b74)
-     
-   - Noice
-   ![Screenshot 2025-01-14 223602](https://github.com/user-attachments/assets/8402040e-dbfd-4c1a-bf10-bfe80fd4bc1c)
+   - AQI and Noise
+     ![WhatsApp Image 2025-01-14 at 22 47 58_9001a4b2](https://github.com/user-attachments/assets/11a13353-d7d0-49f9-b5ba-c31d8a89d545)
 
 
 ---
